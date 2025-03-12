@@ -12,7 +12,7 @@ A Python script designed to automate yield farming on the Infrared protocol. Thi
 - **Python 3.12+**: Ensure Python is installed on your system.
 - **Poetry**: Used for dependency management (install via `pip install poetry` or follow [official instructions](https://python-poetry.org/docs/#installation)).
 - **Berachain Node**: Access to a Berachain node (e.g., Alchemy or a local node).
-- **Account Private Key**: A funded Ethereum account with iBGT tokens for transactions.
+- **Account Private Key**: A funded Berachain account with iBGT tokens for transactions.
 
 
 ## Installation
