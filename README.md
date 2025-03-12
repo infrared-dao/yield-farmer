@@ -1,6 +1,6 @@
 # Yield Farming Bot
 
-A Python script designed to automate yield farming on the Infrared protocol. This bot harvests `iBGT` rewards from specified vaults and stakes them into the `iBGTVault`. It includes logging for monitoring, error handling for robustness, and integration with Ethereum blockchain via Web3.py.
+A Python script designed to automate yield farming on the Infrared protocol. This bot harvests `iBGT` rewards from specified vaults and stakes them into the `iBGTVault`. It includes logging for monitoring, error handling for robustness, and integration with Berachain blockchain via Web3.py.
 
 ## Features
 - Harvests iBGT rewards from multiple Infrared vaults.
